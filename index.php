@@ -77,7 +77,7 @@
 		<h5>Celcius</h5>
 		<input type="text" name="change" id ="demo1" oninput=" toCelsius(this.value)" style="width: 150px; height:20px;"
     onblur="if(this.value=='') {this.value = '';}" 
-    onfocus="if(this.value=='') {this.value = '';} />
+    onfocus="if(this.value=='') {this.value = '';}" />
 	</form>
 	
 	<br>
@@ -96,7 +96,7 @@
 		
 	function toCelsius(fahrenheit) {
     document.getElementById("demo").value =(5/9) * (fahrenheit-32);
-		};
+	};
 
 	function toFahrenheit(celsius) {
     document.getElementById("demo1").value = (celsius*9/5) + 32;
