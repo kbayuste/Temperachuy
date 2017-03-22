@@ -9,11 +9,6 @@
 			padding-top:35px;
 			padding-bottom: -15px;
 		}
-		body{			
-			background: url('Images/bg.jpg');
-			background-repeat: no-repeat;
-			background-size: cover;
-		}
 		ul {
 		    list-style-type: none;
 		    margin: 0;
@@ -63,6 +58,7 @@
 	</style>
 </head>
 <body>
+	<img src="images/bg.jpg" style="z-index: -999" />
 	<center>
 	<img src="Images/Logo.png" height="120" width="550" class="adjust">
 	<center>
