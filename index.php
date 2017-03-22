@@ -95,14 +95,10 @@
 	<script>
 		
 	function toCelsius(fahrenheit) {
-		if (fahrenheit == '') = document.getElementById("demo").value = "";
-		else
     document.getElementById("demo").value =(5/9) * (fahrenheit-32);
 	};
 
 	function toFahrenheit(celsius) {
-		if (celsius == '') = document.getElementById("demo1").value = "";
-		else
     document.getElementById("demo1").value = (celsius*9/5) + 32;
 		};
 	</script>
