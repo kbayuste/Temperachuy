@@ -10,7 +10,7 @@
 			padding-bottom: -15px;
 		}
 		body{			
-			background: url('images/bg.jpg');
+			background: url('Images/bg.jpg');
 			background-repeat: no-repeat;
 			background-size: cover;
 		}
