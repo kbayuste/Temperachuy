@@ -58,7 +58,7 @@
 	</style>
 </head>
 <body>
-	<img src="images/bg.jpg" style="z-index: -999" />
+	<img src="Images/bg.jpg" style="z-index: -999" />
 	<center>
 	<img src="Images/Logo.png" height="120" width="550" class="adjust">
 	<center>
