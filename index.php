@@ -57,8 +57,7 @@
 
 	</style>
 </head>
-<body>
-	<img src="Images/bg.jpg" style="z-index: -999" />
+<body style="background: url('Images/bg.jpg');background-repeat: no-repeat;background-size: cover;">
 	<center>
 	<img src="Images/Logo.png" height="120" width="550" class="adjust">
 	<center>
